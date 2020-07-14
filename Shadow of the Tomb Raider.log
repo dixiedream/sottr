@@ -1,284 +1,144 @@
-23:39:46:790 (00001560) > [Startup] Shadow of the Tomb Raider
-23:39:46:790 (00001560) > [Startup] ==============
-23:39:46:790 (00001560) > [Startup] 
-23:39:46:790 (00001560) > [Startup] Build: v1.0 build 292.0_64
-23:39:46:790 (00001560) > [Startup] Windows 10.0 (build 19041)
-23:39:46:790 (00001560) > [Startup] Game directory: C:\Users\dixie\Documents\Shadow of the Tomb Raider\
-23:39:46:790 (00001560) > [Startup] 
-23:39:46:790 (00001560) > [Startup] Memory statistics:
-23:39:46:790 (00001560) > [Startup]   Total RAM = 15.9 GB (16297 MB)
-23:39:46:790 (00001560) > [Startup]   Avail RAM = 13.2 GB (13509 MB)
-23:39:46:790 (00001560) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-23:39:46:790 (00001560) > [Startup]   Avail virtual memory = 131064.3 GB (134209846 MB)
-23:39:46:790 (00001560) > [Startup] 
-23:39:46:790 (00001560) > [NxApp] PreInit
-23:39:46:790 (00001560) > [Steam] Initializing.
-23:39:46:790 (00001560) > [Steam] Successfully initialized.
-23:39:46:790 (00001560) > [SwapChain] Initializing...
-23:39:46:790 (00001560) > [DXGI] Initializing...
-23:39:46:805 (00001560) > [DXGI] Created DXGIFactory1
-23:39:46:805 (00001560) > [DXGI] Successfully initialized.
-23:39:46:805 (00001560) > [Render] Enumerating adapters:
-23:39:46:805 (00001560) > [Render] 	Adapter 0:
-23:39:46:805 (00001560) > [Monitor] 		Description             : AMD Radeon RX 5700 XT
-23:39:46:805 (00001560) > [Monitor] 		Vendor                  : AMD (1002)
-23:39:46:805 (00001560) > [Monitor] 		Device                  : 731f
-23:39:46:805 (00001560) > [Monitor] 		Sub system              : e4091da2
-23:39:46:805 (00001560) > [Monitor] 		Revision                : 193
-23:39:46:805 (00001560) > [Monitor] 		Dedicated Video Memory  : 8151 MB
-23:39:46:805 (00001560) > [Monitor] 		Dedicated System Memory : 0000 MB
-23:39:46:805 (00001560) > [Monitor] 		Shared System Memory    : 8148 MB
-23:39:46:805 (00001560) > [Monitor] 
-23:39:46:805 (00001560) > [Render] Loading ADL...
-23:39:46:821 (00001560) > [Render] AGS init succeeded
-23:39:46:821 (00001560) > [Render] AGS Radeon Software Version: 20.4.2
-23:39:46:821 (00001560) > [Render] Done loading ADL and AGS
-23:39:46:821 (00001560) > [Render] 	Adapter 1:
-23:39:46:821 (00001560) > [Monitor] 		Description             : Microsoft Basic Render Driver
-23:39:46:821 (00001560) > [Monitor] 		Vendor                  : Unknown (1414)
-23:39:46:821 (00001560) > [Monitor] 		Device                  : 8c
-23:39:46:821 (00001560) > [Monitor] 		Sub system              : 0
-23:39:46:821 (00001560) > [Monitor] 		Revision                : 0
-23:39:46:821 (00001560) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-23:39:46:821 (00001560) > [Monitor] 		Dedicated System Memory : 0000 MB
-23:39:46:821 (00001560) > [Monitor] 		Shared System Memory    : 8148 MB
-23:39:46:821 (00001560) > [Monitor] 
-23:39:46:821 (00001560) > [Render] Enumerating monitors:
-23:39:46:821 (00001560) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 2.39
-23:39:46:821 (00001560) > [Render] 
-23:39:46:868 (00001560) > [Render] AMD Extension Version: 9.1
+17:04:47:093 (00002368) > [Startup] Shadow of the Tomb Raider
+17:04:47:093 (00002368) > [Startup] ==============
+17:04:47:093 (00002368) > [Startup] 
+17:04:47:093 (00002368) > [Startup] Build: v1.0 build 292.0_64
+17:04:47:093 (00002368) > [Startup] Windows 10.0 (build 19041)
+17:04:47:093 (00002368) > [Startup] Game directory: C:\Users\dixie\Documents\Shadow of the Tomb Raider\
+17:04:47:093 (00002368) > [Startup] 
+17:04:47:093 (00002368) > [Startup] Memory statistics:
+17:04:47:093 (00002368) > [Startup]   Total RAM = 15.9 GB (16297 MB)
+17:04:47:093 (00002368) > [Startup]   Avail RAM = 13.2 GB (13483 MB)
+17:04:47:093 (00002368) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+17:04:47:093 (00002368) > [Startup]   Avail virtual memory = 131064.3 GB (134209846 MB)
+17:04:47:093 (00002368) > [Startup] 
+17:04:47:093 (00002368) > [NxApp] PreInit
+17:04:47:093 (00002368) > [Steam] Initializing.
+17:04:47:093 (00002368) > [Steam] Successfully initialized.
+17:04:47:093 (00002368) > [SwapChain] Initializing...
+17:04:47:093 (00002368) > [DXGI] Initializing...
+17:04:47:097 (00002368) > [DXGI] Created DXGIFactory1
+17:04:47:097 (00002368) > [DXGI] Successfully initialized.
+17:04:47:098 (00002368) > [Render] Enumerating adapters:
+17:04:47:098 (00002368) > [Render] 	Adapter 0:
+17:04:47:098 (00002368) > [Monitor] 		Description             : AMD Radeon RX 5700 XT
+17:04:47:098 (00002368) > [Monitor] 		Vendor                  : AMD (1002)
+17:04:47:098 (00002368) > [Monitor] 		Device                  : 731f
+17:04:47:098 (00002368) > [Monitor] 		Sub system              : e4091da2
+17:04:47:098 (00002368) > [Monitor] 		Revision                : 193
+17:04:47:098 (00002368) > [Monitor] 		Dedicated Video Memory  : 8151 MB
+17:04:47:098 (00002368) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:04:47:098 (00002368) > [Monitor] 		Shared System Memory    : 8148 MB
+17:04:47:098 (00002368) > [Monitor] 
+17:04:47:098 (00002368) > [Render] Loading ADL...
+17:04:47:127 (00002368) > [Render] AGS init succeeded
+17:04:47:127 (00002368) > [Render] AGS Radeon Software Version: 20.4.2
+17:04:47:127 (00002368) > [Render] Done loading ADL and AGS
+17:04:47:127 (00002368) > [Render] 	Adapter 1:
+17:04:47:127 (00002368) > [Monitor] 		Description             : Microsoft Basic Render Driver
+17:04:47:127 (00002368) > [Monitor] 		Vendor                  : Unknown (1414)
+17:04:47:127 (00002368) > [Monitor] 		Device                  : 8c
+17:04:47:127 (00002368) > [Monitor] 		Sub system              : 0
+17:04:47:127 (00002368) > [Monitor] 		Revision                : 0
+17:04:47:127 (00002368) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+17:04:47:127 (00002368) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:04:47:127 (00002368) > [Monitor] 		Shared System Memory    : 8148 MB
+17:04:47:127 (00002368) > [Monitor] 
+17:04:47:127 (00002368) > [Render] Enumerating monitors:
+17:04:47:128 (00002368) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 2.39
+17:04:47:128 (00002368) > [Render] 
+17:04:47:162 (00002368) > [Render] AMD Extension Version: 9.1
 
-23:39:46:868 (00001560) > [Render] AMD HD3D Extension created.
-23:39:46:868 (00001560) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
-23:39:46:868 (00001560) > [Render] Enumerating Display Modes:
-23:39:46:868 (00001560) > [Render] Querying ADL for Eyefinity modes
-23:39:46:868 (00001560) > [Render] 	Monitor '1 (AMD Radeon RX 5700 XT(1))' (0000000000010001):
-23:39:46:868 (00001560) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  4 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  5 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  6 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  7 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  8 :  832 x  624 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode  9 :  832 x  624 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 10 :  832 x  624 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 11 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 12 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 13 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 14 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 15 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 16 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 17 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 18 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 19 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 20 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 21 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 22 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 23 : 1152 x  872 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 24 : 1152 x  872 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 25 : 1152 x  872 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 26 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 27 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 28 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 29 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 30 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 31 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 32 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 33 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 34 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 35 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 36 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 37 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 38 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 39 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 40 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 41 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 42 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 43 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 44 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 45 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 46 : 1600 x 1200 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 47 : 1600 x 1200 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 48 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 49 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 50 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 51 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 52 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 53 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 54 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 55 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 56 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 57 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 58 : 1920 x 1200 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 59 : 1920 x 1200 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 60 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 61 : 2560 x 1440 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 62 : 2560 x 1440 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 63 : 3440 x 1440 @  50 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 64 : 3440 x 1440 @  60 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] 		- Mode 65 : 3440 x 1440 @ 100 Hz, stereo = 0, hdr = 0
-23:39:46:868 (00001560) > [Render] ***** Additional Monitor Output Info *****
-23:39:46:868 (00001560) > [Render] 		BitsPerColor: 8
-23:39:46:868 (00001560) > [Render] 		Primaries: R=0.6553;0.3301  G=0.3203;0.6006  B=0.1455;0.0703  White-Point=0.3135;0.3291
-23:39:46:868 (00001560) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-23:39:46:868 (00001560) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
-23:39:46:868 (00001560) > [Render] ******************************************
-23:39:46:868 (00001560) > [Render] 
-23:39:46:868 (00001560) > [Render] AMD: Released AMD Extension.
-23:39:46:868 (00001560) > [SwapChain] Successfully initialized.
-23:39:46:868 (00001560) > [NxApp] PreInit successful.
-23:39:46:868 (00001560) > [Main] Current directory: C:\Users\dixie\Documents\Games\Shadow of the Tomb Raider - Croft Edition [Steam-Rip] by Pray\Shadow of the Tomb Raider
-23:39:46:868 (00001560) > [Main] Working directory: C:\Users\dixie\Documents\Games\Shadow of the Tomb Raider - Croft Edition [Steam-Rip] by Pray\Shadow of the Tomb Raider
-23:39:46:868 (00001560) > [SKU] Activating WWW SKU
-23:39:46:930 (00001560) > [MultiCore] CPU count: logical = 24
-23:39:51:915 (00001560) > [Main] Steam Language: 'english'
-23:39:51:915 (00001560) > [Main] Settings: Text Language: 'it-it' | VO Language: 'en-us' | Steam Game Language 'en-us'
-23:39:51:915 (00001560) > [Main] Using: Text Language: 'it-it' | VO Language: 'en-us'
-23:39:52:258 (00001560) > [Validate Settings] Monitor #0
-23:39:52:258 (00001560) > [Validate Settings] Desktop settings (Resolution: 3440 x 1440, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
-23:39:52:258 (00001560) > [NxApp] Querying GPU Driver Info...
-23:39:52:258 (00001560) > [NxApp] Enumerating available display adapters:
-23:39:52:258 (00001560) > [NxApp] 		AMD Radeon RX 5700 XT (active)
-23:39:52:258 (00001560) > [NxApp] Successfully found GPU Driver Info
-23:39:53:978 (00001560) > [Validate Settings] Monitor #0
-23:39:53:978 (00001560) > [Validate Settings] Desktop settings (Resolution: 3440 x 1440, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
-23:39:54:087 (00001560) > [D3D] Max supported feature level: 11.0
-23:39:54:165 (00005924) > [Render] VMEM Budget: 7383 MB
-23:39:54:165 (00005924) > [Render] VMEM Avaialbe: 7382 MB
-23:39:54:258 (00005924) > [Render] GPU node count: 1
-23:39:54:258 (00001560) > [NxApp] Querying GPU Driver Info...
-23:39:54:258 (00001560) > [NxApp] Enumerating available display adapters:
-23:39:54:258 (00001560) > [NxApp] 		AMD Radeon RX 5700 XT (active)
-23:39:54:258 (00001560) > [NxApp] Successfully found GPU Driver Info
-23:39:54:258 (00001560) > [NxApp] Driver Desc: AMD Radeon RX 5700 XT
-23:39:54:258 (00001560) > [NxApp] Driver Version: 26.20.15029.27017
-23:39:54:258 (00001560) > [Settings] DirectX Version: 12
-23:39:54:258 (00001560) > [Settings] Window mode:
-23:39:54:258 (00001560) > [Settings] 	Fullscreen: 1
-23:39:54:258 (00001560) > [Settings] 	Excl.Fullscreen: 0
-23:39:54:258 (00001560) > [Settings] 	Monitor: 0
-23:39:54:258 (00001560) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 3440 h: 1440
-23:39:54:258 (00001560) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 3440 h: 1410
-23:39:54:258 (00001560) > [Settings] 		Aspect Ratio: 2.393393 (Pixel Aspect Ratio: 0.998118)
-23:39:54:258 (00001560) > [Settings] Fullscreen display mode:
-23:39:54:258 (00001560) > [Settings] 	Display mode: 3440x1440@60
-23:39:54:258 (00001560) > [Settings] 		VSync: 0
-23:39:54:258 (00001560) > [Settings] 		MultiMonitor: 0
-23:39:54:258 (00001560) > [Settings] 		BezelCorrected: 0
-23:39:54:258 (00001560) > [Settings] 		Stereoscopic3D: 0
-23:39:54:258 (00001560) > [Settings] 		SHDR: 0
-23:39:54:258 (00001560) > [Settings] Window settings:
-23:39:54:258 (00001560) > [Settings] 	Window rect: x: 760 y: 180 w: 1920 h: 1080
-23:39:54:258 (00001560) > [Settings] 	User window: w: 1920 h: 1080
-23:39:54:258 (00001560) > [Settings] 	Window maximized: 0
-23:39:54:258 (00001560) > [Settings] Graphics Options:
-23:39:54:258 (00001560) > [Settings] 	TextureQuality: 3, TextureFiltering: 3, ShadowQuality: 3
-23:39:54:258 (00001560) > [Settings] 	RT: 0
-23:39:54:258 (00001560) > [Settings] 	AO: 2, DOF: 2, AA: 2, Bloom: 1
-23:39:54:258 (00001560) > [Settings] 	MotionBlur: 1 Tessellation: 1
-23:39:54:258 (00001560) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
-23:39:54:258 (00001560) > [Settings] 	Specular Reflection Quality: 0
-23:39:54:258 (00001560) > [Settings] 	FOVCorrection :1.000000
-23:39:54:258 (00001560) > [Settings] 	LevelOfDetail: 3
-23:39:54:258 (00001560) > [Settings] 	StereoSeparation: 0.022000
-23:39:54:258 (00001560) > [Settings] 	StereoPopOut: 5.000000
-23:39:54:258 (00001560) > [Settings] 	StereoNearSeparationMultiplier :0.350000
-23:39:54:258 (00001560) > [Settings] 	HDR luminance :1.000000
-23:39:54:258 (00001560) > [Settings] 	DLSS: 0
-23:39:54:258 (00001560) > [NxApp] Creating window...
-23:39:54:852 (00006092) > [GameWindow] UpdateState bVisible true
-23:39:54:852 (00006092) > [Input] Keyboard language: "English (United States)" (id: 1033)
-23:39:54:883 (00006092) > [Input] Keyboard physical layout: "Italian" (id: 00000410)
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 50475 vendor 1133 version 9233 usage 2 usagePage 65280 xinput no
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 6387 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 50475 vendor 1133 version 9233 usage 1 usagePage 65280 xinput no
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 50475 vendor 1133 version 9233 usage 136 usagePage 65468 xinput no
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 50475 vendor 1133 version 9233 usage 1 usagePage 12 xinput no
-23:39:54:883 (00006092) > [Input] Joystick            ""   product 50475 vendor 1133 version 9233 usage 4 usagePage 65280 xinput no
-23:39:54:883 (00006092) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
-23:39:54:883 (00006092) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
-23:39:54:915 (00006092) > [Input] Using LibScePad
-23:39:54:930 (00006092) > [Input] Gamepads connected: 0 -> 1
-23:39:54:930 (00006092) > [Input] Gamepad for main player: 8
-23:39:54:930 (00006092) > [XInput] Enumerating available xusb hid devices:
-
-23:39:54:946 (00006092) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0114),Xbox 360 Controller for Windows 
-	USB\VID_045E&PID_028E\07C3430
-
-23:39:54:961 (00006092) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
-	USB\VID_045E&PID_028E&IG_00\9&14B9E9BA&0&00
-
-23:39:54:961 (00001560) > [NxApp] Window created.
-23:39:54:961 (00001560) > [NxApp] Initializing swapchain...
-23:39:54:961 (00005924) > [SwapChain] Creating...
-23:39:54:961 (00006092) > [Input] new Windows.Gaming.Input raw-controller found 45e 28e
-
-23:39:54:961 (00005924) > [Render] AMD Extension Version: 9.1
-
-23:39:54:961 (00005924) > [Render] AMD HD3D Extension created.
-23:39:54:961 (00005924) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
-23:39:54:977 (00005924) > [DXGI] Created swapchain.
-23:39:55:008 (00005924) > [SwapChain] Gamma correction is enabled.
-23:39:55:118 (00005924) > [SwapChain] Successfully created.
-23:39:55:118 (00001560) > [NxApp] Swapchain initialized
-23:39:55:118 (00001560) > [NxApp] Initializing renderer...
-23:39:55:586 (00001560) > [NxApp] Renderer initialized
-23:39:55:852 (00001560) > [NvShadow] Failure: NVGSDK_ERR_LOAD_LIBRARY
-23:39:55:852 (00001560) > [Ansel] Successfully initialized Ansel
-23:39:55:852 (00001560) > [Main] Starting Tomb Raider v1.0 build 292.0_64
-23:39:56:383 (00001560) > [DX12] ID3D12Device1 interface detected; enabling additional features
-23:39:56:383 (00001560) > [DX12] ID3D12Device5 interface detected
-23:39:56:383 (00001560) > [DX12] No raytracing support detected
-23:39:56:383 (00001560) > [Render] Using root signature version: 1.0
-23:39:56:383 (00001560) > [Render] Supported shader model: 0x51
-23:39:56:446 (00001560) > [DX12] AMD GCN 1.1 or higher GPU detected
-23:39:56:461 (00001560) > [D3D] R11G11B10 Typed UAV Loads are SUPPORTED.
-23:39:56:493 (00001560) > [HBAO+] HBAO+ Context creation succeeded
-23:39:56:665 (00001560) > [ GFSDK_ShadowLib]  GFSDK_ShadowLib Context creation succeeded
-23:39:56:665 (00001560) > [PCNGX] Failed to init ngx sdk
-23:39:56:868 (00001560) > [D3D] Enabling render target pooling
-23:39:57:540 (00001560) > [D3D] AMD driver version 20.4.2 detected, enabling copy queue!
-23:39:57:540 (00001560) > [D3D] Opened game pipeline cache file: pipe_cache.bin
-23:39:57:899 (00001560) > [D3D] Read 105402 pipelines from cache file. Added 105402 pipelines to cache, found 0 duplicates.
-23:39:57:899 (00001560) > [D3D] Closed game pipeline cache file: pipe_cache.bin
-23:39:57:899 (00001560) > [D3D] Opened user pipeline cache file: C:\Users\dixie\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
-23:39:57:899 (00001560) > [D3D] Read 1 pipelines from cache file. Added 1 pipelines to cache, found 0 duplicates.
-23:39:57:899 (00001560) > [D3D] Closed user pipeline cache file: C:\Users\dixie\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
-23:39:57:937 (00006236) > [D3D] cdc::PCDX12PipelineCache::AddPipeline: CreateGraphicsPipelineState failed with HRESULT 0x80070057
-23:39:59:357 (00001560) > [Sound] Default audio device Speakers High Definition Audio Device
-23:40:00:126 (00004252) > [Audio] Using Default Audio Sink
-23:40:03:777 (00001560) > [Input] Assigned gamepad 8 to player 0
-23:40:06:936 (00001560) > [Input] Windows.Gaming.Input controller connected. index: 0
-23:40:06:936 (00001560) > [Input] Gamepads connected: 1 -> 2
-23:40:06:936 (00001560) > [Input] Gamepad for main player: 0
-23:40:06:937 (00001560) > [Input] XInput disabled, disconnecting controller. index: 0
-23:40:06:937 (00001560) > [Input] Gamepads connected: 2 -> 1
-23:40:06:937 (00001560) > [Input] Gamepad for main player: 0
-23:40:19:616 (00001560) > [Ansel] Set Ansel-Active: available = 0 active = 0
-23:40:27:081 (00001560) > [XInput] Enumerating available xusb hid devices:
-
-23:40:27:082 (00001560) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0114),Xbox 360 Controller for Windows 
-	USB\VID_045E&PID_028E\07C3430
-
-23:40:27:084 (00001560) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
-	USB\VID_045E&PID_028E&IG_00\9&14B9E9BA&0&00
-
-23:40:27:093 (00001560) > [XInput] Enumerating available xusb hid devices:
-
-23:40:27:094 (00001560) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0114),Xbox 360 Controller for Windows 
-	USB\VID_045E&PID_028E\07C3430
-
-23:40:27:095 (00001560) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
-	USB\VID_045E&PID_028E&IG_00\9&14B9E9BA&0&00
-
-00:08:51:339 (00001560) > [XInput] Enumerating available xusb hid devices:
-
-00:08:51:347 (00001560) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0114),Xbox 360 Controller for Windows 
-	USB\VID_045E&PID_028E\07C3430
-
-00:08:51:348 (00001560) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
-	USB\VID_045E&PID_028E&IG_00\9&14B9E9BA&0&00
-
+17:04:47:162 (00002368) > [Render] AMD HD3D Extension created.
+17:04:47:162 (00002368) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+17:04:47:162 (00002368) > [Render] Enumerating Display Modes:
+17:04:47:162 (00002368) > [Render] Querying ADL for Eyefinity modes
+17:04:47:169 (00002368) > [Render] 	Monitor '1 (AMD Radeon RX 5700 XT(1))' (0000000000010001):
+17:04:47:169 (00002368) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  4 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  5 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  6 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  7 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  8 :  832 x  624 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode  9 :  832 x  624 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 10 :  832 x  624 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 11 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 12 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 13 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 14 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 15 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 16 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 17 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 18 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 19 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 20 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 21 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 22 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 23 : 1152 x  872 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 24 : 1152 x  872 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 25 : 1152 x  872 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 26 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 27 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 28 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 29 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 30 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 31 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 32 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 33 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 34 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 35 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 36 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 37 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 38 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 39 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 40 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 41 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 42 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 43 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 44 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 45 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 46 : 1600 x 1200 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 47 : 1600 x 1200 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 48 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 49 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 50 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 51 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 52 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 53 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 54 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 55 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 56 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 57 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 58 : 1920 x 1200 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 59 : 1920 x 1200 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 60 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 61 : 2560 x 1440 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 62 : 2560 x 1440 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 63 : 3440 x 1440 @  50 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 64 : 3440 x 1440 @  60 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] 		- Mode 65 : 3440 x 1440 @ 100 Hz, stereo = 0, hdr = 0
+17:04:47:169 (00002368) > [Render] ***** Additional Monitor Output Info *****
+17:04:47:169 (00002368) > [Render] 		BitsPerColor: 8
+17:04:47:169 (00002368) > [Render] 		Primaries: R=0.6553;0.3301  G=0.3203;0.6006  B=0.1455;0.0703  White-Point=0.3135;0.3291
+17:04:47:169 (00002368) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+17:04:47:169 (00002368) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+17:04:47:169 (00002368) > [Render] ******************************************
+17:04:47:169 (00002368) > [Render] 
+17:04:47:169 (00002368) > [Render] AMD: Released AMD Extension.
+17:04:47:169 (00002368) > [SwapChain] Successfully initialized.
+17:04:47:169 (00002368) > [NxApp] PreInit successful.
+17:04:47:170 (00002368) > [Main] Current directory: C:\Users\dixie\Documents\Games\Shadow of the Tomb Raider - Croft Edition [Steam-Rip] by Pray\Shadow of the Tomb Raider
+17:04:47:170 (00002368) > [Main] Working directory: C:\Users\dixie\Documents\Games\Shadow of the Tomb Raider - Croft Edition [Steam-Rip] by Pray\Shadow of the Tomb Raider
+17:04:47:171 (00002368) > [SKU] Activating WWW SKU
+17:04:47:229 (00002368) > [MultiCore] CPU count: logical = 24
+17:04:52:741 (00002368) > [Main] Steam Language: 'english'
+17:04:52:741 (00002368) > [Main] Settings: Text Language: 'it-it' | VO Language: 'en-us' | Steam Game Language 'en-us'
+17:04:52:741 (00002368) > [Main] Using: Text Language: 'it-it' | VO Language: 'en-us'
+17:04:53:042 (00002368) > [Validate Settings] Monitor #0
+17:04:53:042 (00002368) > [Validate Settings] Desktop settings (Resolution: 3440 x 1440, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+17:04:53:042 (00002368) > [NxApp] Querying GPU Driver Info...
+17:04:53:044 (00002368) > [NxApp] Enumerating available display adapters:
+17:04:53:044 (00002368) > [NxApp] 		AMD Radeon RX 5700 XT (active)
+17:04:53:045 (00002368) > [NxApp] Successfully found GPU Driver Info
